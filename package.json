@@ -1,0 +1,26 @@
+{
+  "name": "charns-biedor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamKeck/charns-biedor.git"
+  },
+  "author": "Keck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IamKeck/charns-biedor/issues"
+  },
+  "homepage": "https://github.com/IamKeck/charns-biedor#readme",
+  "devDependencies": {
+    "electron": "^2.0.2",
+    "elm": "^0.18.0",
+    "elm-format": "^0.6.1-alpha",
+    "webpack": "^4.11.1"
+  }
+}
